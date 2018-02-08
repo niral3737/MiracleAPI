@@ -1,0 +1,13 @@
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\contacts\dao\UserDaoImpl.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\global\exceptions\DaoException.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\contacts\dao\ContactsDaoFactory.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\contacts\entities\User.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\global\dao\GenericDao.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\global\filters\BaseFilter.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\global\entities\BaseObject.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\global\filters\SuperFilter.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\contacts\dao\UserDao.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\global\entities\SuperObject.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\contacts\filters\UserFilter.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\global\dao\GenericDaoImpl.java
+C:\Users\zeel\eclipse-workspace\itgo\barcodes\db\src\main\java\com\itgo\db\utils\HibernateUtil.java
